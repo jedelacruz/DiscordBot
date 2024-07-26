@@ -20,6 +20,7 @@ If all the images r sent then
 
 - npm install discord.js
 - copy the code
+- add ur bot token
 - run it "node index.js"
 
 you can even add your own meme images
