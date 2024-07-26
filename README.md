@@ -1,27 +1,25 @@
 # filo-ahhh-lore
-a discord bot made in node js using discord.js that sends filipino memes in your discord server. 
+A Discord bot made in Node.js using discord.js that sends Filipino memes to your Discord server.
 
-<hr> 
+<hr>
 
 <h3>Some Shots</h3>
 
-![image style="width: 200px;"](https://github.com/user-attachments/assets/60a4f217-9b20-4213-b8a0-f1f5d266942e)
-![image style="width: 200px;"](https://github.com/user-attachments/assets/6b6497a4-22d5-4cac-a480-6790223e9ecc)
-![image style="width: 200px;"](https://github.com/user-attachments/assets/48ac668c-ddfe-4673-9999-e299d231e918)
+<img src="https://github.com/user-attachments/assets/60a4f217-9b20-4213-b8a0-f1f5d266942e" style="width: 200px;" alt="meme1">
+<img src="https://github.com/user-attachments/assets/6b6497a4-22d5-4cac-a480-6790223e9ecc" style="width: 200px;" alt="meme2">
+<img src="https://github.com/user-attachments/assets/48ac668c-ddfe-4673-9999-e299d231e918" style="width: 200px;" alt="meme3">
 
-If all the images r sent then 
+If all the images are sent then 
 
-![image](https://github.com/user-attachments/assets/ecdcd5e0-d0c2-4341-89eb-8e639812b03f)
-
+<img src="https://github.com/user-attachments/assets/ecdcd5e0-d0c2-4341-89eb-8e639812b03f" style="width: 200px;" alt="sent-image">
 
 <hr>
 
 <h3>How to Use?</h3>
 
-- npm install discord.js
-- copy the code
-- add ur bot token
-- run it "node index.js"
+- `npm install discord.js`
+- Copy the code
+- Add your bot token
+- Run it: `node index.js`
 
-you can even add your own meme images
-
+You can even add your own meme images
