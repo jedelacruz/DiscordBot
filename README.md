@@ -5,9 +5,9 @@ a discord bot made in node js using discord.js that sends filipino memes in your
 
 <h3>Some Shots</h3>
 
-![image](https://github.com/user-attachments/assets/60a4f217-9b20-4213-b8a0-f1f5d266942e)
-![image](https://github.com/user-attachments/assets/6b6497a4-22d5-4cac-a480-6790223e9ecc)
-![image](https://github.com/user-attachments/assets/48ac668c-ddfe-4673-9999-e299d231e918)
+![image style="width: 200px;"](https://github.com/user-attachments/assets/60a4f217-9b20-4213-b8a0-f1f5d266942e)
+![image style="width: 200px;"](https://github.com/user-attachments/assets/6b6497a4-22d5-4cac-a480-6790223e9ecc)
+![image style="width: 200px;"](https://github.com/user-attachments/assets/48ac668c-ddfe-4673-9999-e299d231e918)
 
 If all the images r sent then 
 
